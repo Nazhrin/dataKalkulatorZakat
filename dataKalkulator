@@ -1,0 +1,21 @@
+[
+    {
+        "kategori":"Islam",
+        "imageid":"1"
+    }
+
+    {
+        "kategori":"Merdeka",
+        "imageid":"2"
+    }
+
+    {
+        "kategori":"Berkecukupan",
+        "imageid":"3"
+    }
+
+    {
+        "kategori":"Menemui waktu wajib zakat",
+        "imageid":"4"
+    }
+]
